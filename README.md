@@ -1,15 +1,23 @@
-My Wallpapers
-🖼️ My personal collection of handpicked wallpapers that includes:
+# 🖼️ My Wallpapers
 
-Nature and landscapes
-Minimalist designs
-Abstract art
-Cityscapes
-Space and sci-fi themes
+## 📝 Description
+A curated collection of my favorite wallpapers ranging from minimalist designs to stunning landscapes.
 
-Usage
-Feel free to download and use any wallpaper you like!
-Credits
+## 🗂️ Categories
+* **Nature & Landscapes**
+* **Minimalist Designs**
+* **Abstract Art**
+* **Cityscapes**
+* **Space & Sci-fi**
+
+## 💻 Usage
+Feel free to download and use any wallpaper you like! 
+
+## 📌 Note
 All wallpapers are collected from various sources and artists. If you're the original creator of any image and want it removed, please open an issue.
 
-⭐ Star this repo if you found it useful!
+## ⚖️ License
+These wallpapers are for personal use only.
+
+---
+### ⭐ Star this repo if you found it useful!
